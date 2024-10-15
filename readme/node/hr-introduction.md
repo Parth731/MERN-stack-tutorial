@@ -1,6 +1,6 @@
 1.  **Tell me About my self**
 
-    - My name is Parth Dangroshiya. I have completed my BTech in Electronics and Communication Engineering from Ganpat University. I have a total of 3.6 years of professional experience. Over the past 2+ years, I have specialized as a React.js Developer, and for the past year, I have been focusing on MERN stack web development at Green Apex Solutions Limited. In this role, I have worked on various projects, including task management systems and tourism management platforms, where I optimized React components and contributed to both frontend and backend development. Prior to this, I worked as a C++ Developer at Greeksoft Technologies for 6 months, where I enhanced software maintenance, debugged issues, and integrated third-party libraries. My diverse experience across different technologies has enabled me to become proficient in full-stack web development, and I’m always eager to take on new challenges.
+    - My name is Parth Dangroshiya, and I have a BTech in Electronics and Communication Engineering from Ganpat University. I have 3.6 years of experience, with over 2 years as a React.js Developer and the past year working on MERN stack development At Green Apex Solutions. I worked on projects like task management and tourism platforms, improving React components and contributing to both frontend and backend development. Before that, I worked as a C++ Developer at Greeksoft Technologies. i worked on tranding base application using MFC and DTL library become proficient in full-stack web development, and I’m always eager to take on new challenges.
 
 2.  **Tell me About project during green apex company**
 
@@ -56,7 +56,7 @@
 
 3.  **career gap between greeksoft and green apex company can we explain**
 
-    - During the time between my position at Greeksoft Technologies and Green Apex Solutions, I faced some personal challenges that required my full attention. However, I used this period as an opportunity to refine my problem-solving and time management skills, both of which I believe are highly relevant to this role. Additionally, I completed a frontend development certification course, which further enhanced my technical expertise. This has prepared me to contribute effectively from day one in my next role.
+    - During my time between Greeksoft Technologies and Green Apex Solutions, I faced personal challenges that helped me improve my problem-solving and time management skills. I also completed a frontend development certification, further strengthening my technical expertise. This experience has prepared me to contribute effectively in my next role from day one.
 
 4.  **why you will choose first embedded system then web development field?**
 
